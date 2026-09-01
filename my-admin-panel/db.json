@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Олена",
+      "email": "olena@mail.com",
+      "password": "123"
+    },
+    {
+      "id": "01",
+      "name": "Тарас",
+      "email": "taras@mail.com",
+      "password": "456"
+    },
+    {
+      "id": "HRmZYcWn_bY",
+      "name": "787гшш7г",
+      "email": "о",
+      "password": "ср"
+    },
+    {
+      "name": "рнлшгщшгзщ",
+      "email": "онгш",
+      "password": "срнгонеш",
+      "id": "ETAso7Az1I4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
